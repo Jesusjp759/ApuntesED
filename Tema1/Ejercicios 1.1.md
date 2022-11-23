@@ -1,5 +1,3 @@
-# Ejercicios Tema 1
-
 ## **CICLO DE VIDA DEL SOFTWARE**
 
 ### 1) Define "Ciclo de vida del software"
