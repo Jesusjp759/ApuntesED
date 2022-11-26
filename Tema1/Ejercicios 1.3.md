@@ -1,4 +1,5 @@
-## Lenguajes de programación
+## **Lenguajes de programación**
+
 ### 1) ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos?. Nombra al menos 2 de cada tipo.
 Los lenguajes imperativos se centran en qué pasos hay que dar para lograr el objetivo. Ejemplo: PHP y JavaScript. Mientras que en los lenguajes declarativos se enfocan en el resultado deseado y no en cómo lograrlo. Ejemplo: SQL, Prolog.
 ### 2) ¿Explica qué es compilar? ¿Explica qué es interpretar?
