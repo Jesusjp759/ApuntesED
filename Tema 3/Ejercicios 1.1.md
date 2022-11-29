@@ -8,7 +8,7 @@ GitLab
 Coding -en chino-
 
 ### 2) En Git, ¿qué tres áreas existen?
-Existen el “working directory”, “staging area” y el “repository”
+Existen el “working directory”, “staging area” y el “repository”.
 
 ### 3) Busca en Internet un buen tutorial de GIT y realízalo. ¿De qué tutorial se trata?
 https://www.w3schools.com/git/default.asp?remote=github
@@ -17,25 +17,25 @@ https://www.w3schools.com/git/default.asp?remote=github
 https://www.youtube.com/watch?v=uR6G2v_WsRA
 
 ### 5) En Git, ¿para qué sirve el comando git config?
-Para definir valores de configuración de Git
+Para definir valores de configuración de Git.
  
 ### 6) En Git, ¿para qué sirve el comando git init?
-Para crear un nuevo repositorio de Git
+Para crear un nuevo repositorio de Git.
 
 ### 7) En Git, ¿para qué sirve el comando git clone?
-Para seleccionar un repositorio y clonarlo en una nueva ubicación
+Para seleccionar un repositorio y clonarlo en una nueva ubicación.
 
 ### 8) En Git, ¿para qué sirve el comando git status?
-Para mostrar el estado del directorio de trabajo y del área del entorno de ensayo
+Para mostrar los archivos modificados del working directory, almacenados para el próximo commit.
 
 ### 9) En Git, ¿para qué sirve el comando git add?
-Para añadir un cambio del directorio de trabajo
+Para añadir un archivo en el estado actual al stage area.
 
 ### 10) En Git, ¿para qué sirve el comando git commit?
-Captura una instantánea de los cambios preparados del proyecto. Estas instantáneas son consideradas versiones seguras del proyecto. ???
+Envía el contenido del stage area a un nuevo commit.
 
 ### 11) En Git, ¿para qué sirve el comando git log?
-Para explorar el historial del repositorio
+Muestra el historial de todos los commit de la rama actual del proyecto.
 
 ### 12) En Git, ¿para qué sirve el comando git reset HEAD nombrearchivo?
 Sirve para sacar archivos del “staging area”
