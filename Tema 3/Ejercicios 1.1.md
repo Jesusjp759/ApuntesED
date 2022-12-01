@@ -38,10 +38,10 @@ Envía el contenido del stage area a un nuevo commit.
 Muestra el historial de todos los commit de la rama actual del proyecto.
 
 ### 12) En Git, ¿para qué sirve el comando git reset HEAD nombrearchivo?
-Sirve para sacar archivos del “staging area”
+Sirve para sacar el archivo seleccionado del “staging area”.
 
 ### 13) En Git, ¿para qué sirve el comando git checkout -- nombrearchivo?
-Te permite restaurar archivos modificados o eliminados
+Te permite restaurar archivos modificados o eliminados.
 
 ### 14) Visualiza el siguiente video y responde a las cuestiones que aparecen más abajo.
 https://www.youtube.com/watch?v=FyAAIHHClqI
