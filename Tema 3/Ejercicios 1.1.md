@@ -56,7 +56,7 @@ Cambia a una rama diferente y se actualizan los archivos en el working directory
 Une la rama especificada en la rama actual.
 
 ### 18) En Git, explica cómo funciona la fusión (merge) de tipo fast-forward.
-El merge es un comando que permite unificar varias ramas del proyecto, en este caso, el tipo fast-forward se refiere a la unión de la rama master de un proyecto con los cambios realizados en una rama “feature”.
+El merge es un comando que permite unificar varias ramas del proyecto, en este caso, el tipo fast-forward se refiere a la unión de la rama master de un proyecto con los cambios realizados en una rama “feature, siempre y cuando el proyecto siga un camino lineal y pertenezcan a la misma rama.
 
 ### 19) En Git, explica cómo funciona la fusión (merge) de tipo 3-way.
-El merge de tipo 3-way es una fusión de los cambios realizados en la rama master con los cambios realizados en la rama feature.
+El merge de tipo 3-way es una fusión de los cambios realizados en la rama master con los cambios realizados en la rama feature, siempre y cuando la rama del main sea diferente a la rama feature.
