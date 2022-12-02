@@ -25,3 +25,50 @@ Los paquetes a instalar en Ubuntu son: python, php, nodejs, gcc, g++, openjdk-8-
 El código fuente para distintos lenguajes de programación está disponible en: https://es.wikipedia.org/wiki/Anexo:Ejemplos_de_implementaci%C3%B3n_del_%C2%ABHola_mundo%C2%BB
 
 Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
+
+### 2) Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?
+
+   - bash: Interpretación
+   - python: Interpretación
+   - php: Interpretación
+   - javascript (nodejs): Interpretación
+   - c: Compilación
+   - c++: Compilación
+   - java: Compilación
+   - ruby: Interpretación
+   - go: Compilación
+   - rust: Compilación
+   - lisp: Interpretación
+   - ensamblador (nasm): Compilación
+
+### 3) Para cada uno de los lenguajes anteriores, indica el nombre del compilador o interprete utilizado en GNU/Linux.
+   
+   - bash: Shell
+   - python: CPython
+   - php: Netbeans
+   - javascript (nodejs): Navegador web
+   - c: GCC
+   - c++: GCC
+   - java: GNU Compiler
+   - ruby: JIT
+   - go: gccgo 
+   - rust: Rustc
+   - lisp: GCL
+   - ensamblador (nasm): GNU Assembler
+
+### 4) Investiga y averigua que extensión tienen los archivos de código fuente de los siguientes lenguajes:
+
+   - bash: .sh
+   - python: .py
+   - php: .php
+   - javascript (nodejs): .js
+   - c: .c
+   - c++: .cpp
+   - java: .java
+   - ruby: .rb
+   - go: .go
+   - rust: .rs
+   - lisp: .lisp
+   - ensamblador (nasm): .asm
+
+### 6) 
