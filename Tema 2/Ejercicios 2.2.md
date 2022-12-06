@@ -38,3 +38,5 @@ Sublime Text no tiene una diferencia visual en los iconos para los archivos, a n
 En Visual Studio el atajo para comentar es Ctrl + K + C, mientras que en Sublime Text se puede asignar como dice en el enunciado a Ctrl + Shift + 7<br>
    **5. atajo de teclas para buscar y seleccionar (Ctrl+D)**<br>
 En Visual Studio con Ctrl + D se abre el cuadro de búsqueda, mientras que en Sublime Text Ctrl + D es para seleccionar y Ctrl + F para encontrar<br>
+
+## 6) ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
