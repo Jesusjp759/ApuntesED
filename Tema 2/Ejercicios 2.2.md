@@ -28,13 +28,13 @@ Sirve para agilizar el proceso de escribir código. Aqui un ejemplo de escribir 
 
 ## 5) Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes aspectos:
 
-   - terminal integrado
+   **1. terminal integrado**
 Sublime Text no tiene un terminal incluido al instalarlo, mientras que Visual Studio Code lo trae incluido.
-   - emmet incorporado
+   **2. emmet incorporado**
 Emmet está incluido en Visual Studio Code por lo que no es necesario instalar ninguna extensión, a diferencia de Sublime Text que se tiene que instalar a través del Package Control.
-   - iconos para los tipos de archivos
+   **3. iconos para los tipos de archivos**
 Sublime Text no tiene una diferencia visual en los iconos para los archivos, a no ser que se descargue un paquete que los añada, mientras que Visual Studio muestra los iconos del lenguaje de programación en uso en la barra de arribe del código.
-   - atajo de teclas para comentar (Ctrl+Shift+7)
+   **4. atajo de teclas para comentar (Ctrl+Shift+7)**
 En Visual Studio el atajo para comentar es Ctrl + K + C, mientras que en Sublime Text se puede asignar como dice en el enunciado a Ctrl + Shift + 7
-   - atajo de teclas para buscar y seleccionar (Ctrl+D)
+   **5. atajo de teclas para buscar y seleccionar (Ctrl+D)**
 En Visual Studio con Ctrl + D se abre el cuadro de búsqueda, mientras que en Sublime Text Ctrl + D es para seleccionar y Ctrl + F para encontrar
