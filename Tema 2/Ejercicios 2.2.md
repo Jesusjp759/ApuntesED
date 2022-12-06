@@ -27,8 +27,8 @@ Sirve para agilizar el proceso de escribir código. Aqui un ejemplo de escribir 
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/vscode.png)
 Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los siguientes aspectos:
 
-   -terminal integrado
-   -emmet incorporado
-   -iconos para los tipos de archivos
-   -atajo de teclas para comentar (Ctrl+Shift+7)
-   -atajo de teclas para buscar y seleccionar (Ctrl+D)
+   - terminal integrado
+   - emmet incorporado
+   - iconos para los tipos de archivos
+   - atajo de teclas para comentar (Ctrl+Shift+7)
+   - atajo de teclas para buscar y seleccionar (Ctrl+D)
