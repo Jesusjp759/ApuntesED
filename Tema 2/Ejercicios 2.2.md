@@ -40,3 +40,4 @@ En Visual Studio el atajo para comentar es Ctrl + K + C, mientras que en Sublime
 En Visual Studio con Ctrl + D se abre el cuadro de búsqueda, mientras que en Sublime Text Ctrl + D es para seleccionar y Ctrl + F para encontrar<br>
 
 ## 6) ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
+OpenJDK y el IDE,como por ejemplo, Eclipse.
