@@ -1,2 +1,2 @@
 # Apuntes_ED
-Actividades tema 1 ED
+Actividades de la asignatura Entornos de desarrollo
