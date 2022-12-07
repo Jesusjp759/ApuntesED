@@ -49,4 +49,4 @@ OpenJDK y el IDE,como por ejemplo, Eclipse.
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/ejemplonetbeans.png)
 
 ## 10) ¿Qué sistema de construcción utiliza Netbeans para generar los archivos "ejecutables"? Mira en el directorio raíz del proyecto y examina qué buildfile utiliza de los vistos en el tema.
-
+Maven.
