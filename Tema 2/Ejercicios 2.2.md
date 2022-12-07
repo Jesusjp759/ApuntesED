@@ -41,3 +41,6 @@ En Visual Studio con Ctrl + D se abre el cuadro de búsqueda, mientras que en Su
 
 ## 6) ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
 OpenJDK y el IDE,como por ejemplo, Eclipse.
+
+## 7) Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/netbeans.png)
