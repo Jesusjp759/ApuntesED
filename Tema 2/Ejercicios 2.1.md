@@ -75,39 +75,19 @@ Instrucciones en https://github.com/jamj2000/DAW1-ED-HolaMundo.
 Tienen la extensión .obj, que son archivos intermedios generados por el compilador.
 
 ### 7) Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes:
-- datos.c
-//-------------
-// datos.c
-//-------------
+Escribimos en la consola el comando "gcc -c main.c datos.c suma.c" y si después escribimos el comando "ls" para comprobar los archivos, además de los del enunciado, nos devuelve main.o datos.o y suma.o
 
-char *mensaje="Hola a todos y todas";
-int  num1 = 8;
-int  num2 = 10; 
+### 8) Lenguaje C. Código en varios archivos. Obtener el código binario ejecutable a partir del código objeto de los 3 archivos anteriores:
+Para obtener el código binario ejecutable usaremos el comando "gcc -o ejemplo main.o datos.o suma.o" y nos devuelve un nuevo archivo llamado ejemplo con el código binario ejecutable. 
 
-- suma.c
-//-------------
-// suma.c
-//-------------
+## BIBLIOTECAS
 
-int suma (int a, int b) {
-  return a + b;
-}
+### 11) Bibliotecas. Define que se entiende por biblioteca o librería y los tipos que existen.
+Es un conjunto de implementaciones funcionales codificadas en un lenguaje de programación. Existen los siguientes tipos:
+- Bibliotecas estáticas
+- Bibliotecas dinámicas
+- Bibliotecas remotas
 
-- main.c
-//-------------
-// main.c
-//-------------
-
-/#include <stdio.h>
-
-int suma (int a, int b);
-
-extern char *mensaje;
-extern int  num1, num2;
-
-int main(){
-  printf("%s\n", mensaje);
-  printf("%d\n", suma (num1, num2) );
-  return 0;
-}
+### 12) Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?
+Las bibliotecas dinámicas porque la carga dinámica permite al sistema operativo aplicar algoritmos que mejoren el rendimiento del sistema cuando se carguen estas bibliotecas. Además, al estar compartidas, basta con mantener una copia en memoria para todos los programas que la utilicen. En resumen, facilitan la gestión y el aprovechamiento de la memoria del sistema.
 
