@@ -44,3 +44,6 @@ OpenJDK y el IDE,como por ejemplo, Eclipse.
 
 ## 7) Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/netbeans.png)
+
+## 9) Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/ejemplonetbeans.png)
