@@ -22,3 +22,5 @@ Son aquellas características del código que lo hacen difícil de entender, mod
 
 ### 4) Realiza análisis estático de código para las clases del proyecto miapp. Consulta el siguiente enlace: análisis estático con FindBugs
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/findbugs.png)
+
+### 5) Indica al menos un code smell relevante de cada clase. Explica cómo podría solucionarse.
