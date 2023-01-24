@@ -19,3 +19,6 @@ Son aquellas características del código que lo hacen difícil de entender, mod
 
 - Scrutinizer: Es especialmente útil para proyectos de software de código abierto.
 - SonarQube: Es una plataforma de análisis estático de código que puede ser utilizada para detectar problemas de calidad, seguridad y rendimiento en el código. Ofrece una interfaz web fácil de usar y puede ser integrada con varias herramientas de control de versiones populares, como Git y SVN.
+
+### 4) Realiza análisis estático de código para las clases del proyecto miapp. Consulta el siguiente enlace: análisis estático con FindBugs
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/findbugs.png)
