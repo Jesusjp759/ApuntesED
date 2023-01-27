@@ -1,5 +1,5 @@
-- [Ciclo de vida del software](Ciclo de vida del software.md)
-- [Lenguajes de programación](Lenguajes de programación.md)
+* [Ciclo de vida del software](Ciclo de vida del software.md)
+* [Lenguajes de programación](Lenguajes de programación.md)
 * [Herramientas de desarrollo](Herramientas de desarrollo.md)
 * [Entornos integrados de desarrollo](Entornos integrados de desarrollo.md)
 * [Kanban, Scrum y XP](Kanban, Scrum y XP.md)
