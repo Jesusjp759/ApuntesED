@@ -24,3 +24,17 @@ Son aquellas características del código que lo hacen difícil de entender, mod
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/findbugs.png)
 
 ### 5) Indica al menos un code smell relevante de cada clase. Explica cómo podría solucionarse.
+
+- Dinámico: Bucle infinito, se podría solucionar implementando una condición de salida para el bucle.
+- Estático: Clase con demasiados métodos, esto se podría solucionar creando subclases para dividir el número de parámetros.
+
+### 6) ¿Qué es la refactorización?
+
+Es el proceso de cambiar la estructura interna del código sin cambiar su comportamiento externo.
+
+### 7) ¿Qué técnicas se utilizan a menudo a la hora de refactorizar?
+
+- Pruebas unitarias para asegurar que no se rompen las funcionalidades existentes.
+- Renombrado, para mejorar la legibilidad del código.
+- Extraer método, para eliminar fragmentos repetitivos y convertirlos en métodos independientes.
+- Patrón de diseño, para mejorar la estructura del código.
