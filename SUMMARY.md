@@ -5,3 +5,4 @@
   - [Herramientas de desarrollo](./Tema2/Herramientas%20de%20desarrollo.md)
   - [Control de versiones](./Tema3/Control%20de%20versiones.md)
   - [Optimización](./Tema4/Optimización.md)
+  - [Diagrama de clases](./Tema5/Diagrama%20de%20clases.md)
