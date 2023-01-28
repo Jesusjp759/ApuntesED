@@ -1,5 +1,5 @@
-  - [Ciclo de vida del software](https://github.com/Jesusjp759/Apuntes_ED/blob/main/Tema1/Ciclo%20de%20vida%20del%20software.md)
-  - [Lenguajes de programación](https://github.com/Jesusjp759/Apuntes_ED/blob/main/Tema1/Lenguajes%20de%20programaci%C3%B3n.md)
+  - [Ciclo de vida del software](./Tema1/Ciclo%20de%20vida%20del%20software.md)
+  - [Lenguajes de programación](./Tema1/Lenguajes%20de%20programaci%C3%B3n.md)
   - [Kanban, Scrum y XP](./Tema1/Kanban%2C%20Scrum%20y%20XP.md)
   - [Herramientas de desarrollo](Herramientas de desarrollo.md)
   - [Entornos integrados de desarrollo](Entornos integrados de desarrollo.md)
