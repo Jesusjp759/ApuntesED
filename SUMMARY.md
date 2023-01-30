@@ -1,7 +1,7 @@
   - [Ciclo de vida del software](./Tema1/Ciclo%20de%20vida%20del%20software.md)
   - [Kanban, Scrum y XP](./Tema1/Kanban%2C%20Scrum%20y%20XP.md)
   - [Lenguajes de programación](./Tema1/Lenguajes%20de%20programaci%C3%B3n.md)
-  - [Entornos integrados de desarrollo](./Tema2/Entornos integrados de desarrollo.md)
+  - [Entornos integrados de desarrollo](./Tema2/Entornos%20integrados%20de%20desarrollo.md)
   - [Herramientas de desarrollo](./Tema2/Herramientas%20de%20desarrollo.md)
   - [Control de versiones](./Tema3/Control%20de%20versiones.md)
   - [Optimización](./Tema4/Optimización.md)
