@@ -35,7 +35,7 @@ En UML existen varios tipos de diagramas de estructura. Los más comunes son:
 ### 3) Indica los tipos de relaciones que pueden darse y explica brevemente.
 - **Asociación:** relación estructural que describe una conexión entre objetos.
 - **Agregación:** indica que una clase es parte de otra clase.
-- **Comosición:** relación en la que la vida de la clase contenida debe coincidir con la vida de la clase contenedora.
+- **Composición:** relación en la que la vida de la clase contenida debe coincidir con la vida de la clase contenedora.
 - **Dependencia:** se usa cuando un objeto no está contenido en ningún campo.
 - **Generalización:** representa la relación entre clase principal y clase secundaria.
 - **Realización:** esta relación ayuda a comprender cómo afecta la interfaz a la clase de implementación
