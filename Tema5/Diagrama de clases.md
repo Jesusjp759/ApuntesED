@@ -23,3 +23,5 @@ En UML existen varios tipos de diagramas de estructura. Los más comunes son:
 - **Diagrama de máquina de estados:** son muy útiles para descubrir el comportamiento de los objetos que actúan de manera diferente de acuerdo con el estado en que se encuentran.
 
 ## **Diagrama de clases**
+
+### 1) Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.
