@@ -25,3 +25,9 @@ En UML existen varios tipos de diagramas de estructura. Los más comunes son:
 ## **Diagrama de clases**
 
 ### 1) Siguiendo la notación UML, pon 2 ejemplos de clases distintos a los vistos en este tema.
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/Empresa.png)
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/Trabajador.png)
+
+### 2) Siguiendo la notación UML, pon 2 ejemplos de interfaces distintos a los vistos en este tema.
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/Contratable.png)
+![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/Reabastecer.png)
