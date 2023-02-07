@@ -47,10 +47,3 @@ En UML existen varios tipos de diagramas de estructura. Los más comunes son:
 
 ### 1) En Intellij, instala el plugin Diagrams.net Integration.
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/Apuntes_ED/main/Imagenes/diagramsintellij.png)
-
-### 2) Escoge uno de tus proyectos realizado en Java que disponga de varias clases. Genera el diagrama de clases haciendo uso del plugin Diagrams.net Integration.
-![imagen]()
-
-### 3) Haciendo uso del plugin Diagrams.net Integration diseña un proyecto con varias clases y genera el código automáticamente.
-![imagen]()
-![imagen]()
