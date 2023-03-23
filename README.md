@@ -1,4 +1,4 @@
-# **Apuntes_ED**
+# **ApuntesED**
 Actividades de la asignatura Entornos de desarrollo
 
 ## Mkdocs
