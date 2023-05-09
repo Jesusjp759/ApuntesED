@@ -74,3 +74,7 @@ Las pruebas de aceptación se realizan después de que se hayan completado las p
 ### 13) Instala el plugin Gradle para Netbeans.
 
 ![imagen](https://raw.githubusercontent.com/Jesusjp759/ApuntesED/main/Imagenes/Gradle.png)
+
+### 14) Crea un proyecto nuevo de tipo Single Gradle Project y nombre empleado, que contenga la clase principal Empleado.
+
+![Empleado](https://raw.githubusercontent.com/Jesusjp759/ApuntesED/main/Imagenes/GradleEmpleado.png)
